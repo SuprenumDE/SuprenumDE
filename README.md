@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @SuprenumDE
-- 👀 I am interested in the statistical environment R and C/C++.
-- 🌱 I’m currently learning C++
-- 💞️ I am interested in collaboration R And C++. That is, how can R and C++ work together, for example via Rccp or similar.
-- 📫 I can be reached at git@r-statistik.de
+# Welcome to SuprenumDE
 
-<!---
-SuprenumDE/SuprenumDE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**SuprenumDE, the GitHub repository for data analysis and machine learning with the statistical environment  R and C++.**
+
+C++ is used to enable high-performance machine learning without the need for *oversized frameworks* such as *TensorFlow*. Based on the principle of “use the right tool for the job the work to be done!”
+
+This means that R is used for the data preparation steps and the subsequent training analysis. The training of the neural network/deep learning structure is handled by a *lean and high-performance C++ program*.
+
+The interface between R and the C++ program is deliberately kept simple and universal. Universal as a keyword: Of course, the C++ program can also be accessed via other environments such as Python. 
+
+The first C++ program is **Dense_NN**, which can be used to train dense-type deep learning networks. Just take a look at the **EigenNET** repository! It describes an example workflow R-> Dense_NN -> R.
+
