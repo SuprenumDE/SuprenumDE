@@ -8,5 +8,5 @@ This means that *R* is used for the data preparation steps and the subsequent tr
 
 The interface between R and the C++ program is deliberately kept simple and universal. Universal as a keyword: Of course, the C++ program can also be accessed via other environments such as Python. 
 
-The first C++ program is [**Dense_NN**](https://github.com/SuprenumDE/Dense_NN), which can be used to train dense-type deep learning networks. Just take a look at the [**EigenNET**](https://github.com/SuprenumDE/EigenNET) repository! It describes an example workflow R-> Dense_NN -> R.
+The first C++ program is [**Dense_NN**](https://github.com/SuprenumDE/Dense_NN), which can be used to train *dense-type deep learning networks*. Just take a look at the [**EigenNET**](https://github.com/SuprenumDE/EigenNET) repository! It describes an example workflow R-> Dense_NN -> R.
 
