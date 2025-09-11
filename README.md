@@ -2,7 +2,7 @@
 
 **SuprenumDE, the GitHub repository for data analysis and machine learning with the statistical environment  R and C++.**
 
-C++ is used to enable high-performance machine learning without the need for *oversized frameworks* such as *TensorFlow*. Based on the principle of “use the right tool for the job the work to be done!”
+C++ is used to enable high-performance machine learning without the need for *oversized frameworks* such as *TensorFlow*. Based on the principle of “use the right tool for the work to be done!”
 
 This means that R is used for the data preparation steps and the subsequent training analysis. The training of the neural network/deep learning structure is handled by a *lean and high-performance C++ program*.
 
