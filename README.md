@@ -10,3 +10,5 @@ The interface between R and the C++ program is deliberately kept simple and univ
 
 The first C++ program is [**Dense_NN**](https://github.com/SuprenumDE/Dense_NN), which can be used to train *dense-type deep learning networks*. Just take a look at the [**EigenNET**](https://github.com/SuprenumDE/EigenNET) repository! It describes an example workflow R-> Dense_NN -> R.
 
+The second C++program is [**OrthoFlow**](https://github.com/SuprenumDE/OrthoFlow).
+<p>What is OrthoFlow, and what can be achieved with OrthoFlow? Here is the answer: OrthoFlow is a <strong>efficient Singular Value Decomposition (SVD)</strong> with OrthoFlow: A High-Performance Approach Based on Eigen and MKL and part of the EigenNET project</p>
